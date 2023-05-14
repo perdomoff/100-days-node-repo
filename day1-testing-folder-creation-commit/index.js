@@ -3,8 +3,7 @@
 
 // console.log("it runs", inputYear);
 // console.log(typeof NaN);
-console.log(Boolean(0));
-console.log(Boolean(undefined));
-console.log(Boolean("Jonas"));
-console.log(Boolean({}));
-console.log(Boolean("   "));
+const age = 19;
+if (age < 18) {
+  console.log("You are not an adult");
+} else console.log("You are  an adult");
