@@ -7,24 +7,15 @@
 
 <details id=0>
 <summary><h2>Day 1</h2></summary>
-
-## How to start this course
-
+Testing first commit to 100 days of node section.
 </details>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
 <details id=1>
-<summary><h2>Day 21</h2></summary>
+<summary><h2>Day 2</h2></summary>
 
-### :keyboard: Activity: Enable GitHub Pages
-
-Note**: In the **Pages** of **Settings**, the **Visit site\*\* button will appear at the top. Click the button to see your GitHub Pages site.
+Calculated score averages for 2 teams.
+Compared averages to determine winner or draw.
+Repeated exercise with minimum score requirements.
+Used The reduce() method for averaging the scores.
 
 </details>
