@@ -7,7 +7,7 @@ const koalasAverage =
   [88, 91, 110].reduce((total, curr) => total + curr, 0) / 3;
 
 console.log("Dolphins Average", dolplhinsAverage);
-// console.log("Koalas Average", koalasAverage);
+console.log("Koalas Average", koalasAverage);
 
 //Point2
 //Compare team's average
@@ -21,7 +21,7 @@ if (dolplhinsAverage > koalasAverage) {
 }
 
 //Point 3
-//
+// repeat exercise with minimum score requirements
 
 const dolplhinsAverageWithRequirements =
   [96, 108, 89].reduce((total, curr) => (curr > 99 ? total + curr : total), 0) /
