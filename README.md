@@ -17,6 +17,7 @@ Calculated score averages for 2 teams.
 Compared averages to determine winner or draw.
 Repeated exercise with minimum score requirements.
 Used The reduce() method for averaging the scores.
+</details>
 
   <details id=2>
 <summary><h2>Day 3</h2></summary>
