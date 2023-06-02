@@ -18,4 +18,8 @@ Compared averages to determine winner or draw.
 Repeated exercise with minimum score requirements.
 Used The reduce() method for averaging the scores.
 
+  <details id=2>
+<summary><h2>Day 3</h2></summary>
+    Call to paginated Api in java. The api returns a list of books
+    depending on author provided.
 </details>
